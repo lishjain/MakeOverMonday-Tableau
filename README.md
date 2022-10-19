@@ -17,5 +17,7 @@ Weekly Tableau challenge to improve my analytical skills
 ### :spiral_calendar: Week 41 - Oct 10th, 2022
 #### United Nations Human Development Index
 - Data: https://data.world/makeovermonday/2022w41 
-- My tableau viz: 
+- Tableau Public link: https://public.tableau.com/views/MOMUnitedNationsHumanDevelopmentIndex/HDI?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+My tableau viz: ![HDI](https://user-images.githubusercontent.com/115571646/196746822-fa82beac-6132-4dab-aba2-386496dd080a.png)
+
 
